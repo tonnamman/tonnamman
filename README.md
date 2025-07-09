@@ -41,11 +41,6 @@ My journey into game development started from my love of playing games, which ev
 **Major:** Computer Science  
 **Specialization:** Game Development
 
-**University of Phayao**  
-*Faculty of Information and Communication Technology*  
-**Major:** Computer Science  
-**Specialization:** Game Development
-
 ## 🌟 What Drives Me
 
 - **Passion for Gaming:** My love for playing games fuels my desire to create memorable experiences
