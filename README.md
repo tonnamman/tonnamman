@@ -54,16 +54,16 @@ I'm always interested in discussing game development, sharing knowledge, and exp
 
 - 📧 **Email:** [puttipongpimsan@gmail.com](mailto:puttipongpimsan@gmail.com)
 - 📱 **Phone:** 061-3261928
-- 💼 **GitHub:** [@Tonnam](https://github.com/Tonnam)
+- 💼 **GitHub:** [@Tonnamman](https://github.com/Tonnamman)
 - 🎮 **Portfolio:** Check out my repositories for more projects!
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonnam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonnam&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonnamman&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonnamman&layout=compact&theme=radical)
 
-[![GitHub followers](https://img.shields.io/github/followers/Tonnam?label=Follow&style=social)](https://github.com/Tonnam)
-[![GitHub stars](https://img.shields.io/github/stars/Tonnam?label=Stars&style=social)](https://github.com/Tonnam)
+[![GitHub followers](https://img.shields.io/github/followers/Tonnamman?label=Follow&style=social)](https://github.com/Tonnamman)
+[![GitHub stars](https://img.shields.io/github/stars/Tonnamman?label=Stars&style=social)](https://github.com/Tonnamman)
 
 ---
 
