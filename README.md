@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-puttipongpimsan@gmail.com-red)](mailto:puttipongpimsan@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-061--3261928-green)](tel:+66613261928)
-[![GitHub](https://img.shields.io/badge/GitHub-Tonnam-blue)](https://github.com/Tonnam)
+[![GitHub](https://img.shields.io/badge/GitHub-tonnamman-blue)](https://github.com/tonnamman)
 
 > *"Creating immersive gaming experiences with passion and dedication"*
 
@@ -54,16 +54,16 @@ I'm always interested in discussing game development, sharing knowledge, and exp
 
 - 📧 **Email:** [puttipongpimsan@gmail.com](mailto:puttipongpimsan@gmail.com)
 - 📱 **Phone:** 061-3261928
-- 💼 **GitHub:** [@Tonnamman](https://github.com/Tonnamman)
+- 💼 **GitHub:** [@Tonnamman](https://github.com/tonnamman)
 - 🎮 **Portfolio:** Check out my repositories for more projects!
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tonnamman&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonnamman&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonnamman&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonnamman&layout=compact&theme=radical)
 
-[![GitHub followers](https://img.shields.io/github/followers/Tonnamman?label=Follow&style=social)](https://github.com/Tonnamman)
-[![GitHub stars](https://img.shields.io/github/stars/Tonnamman?label=Stars&style=social)](https://github.com/Tonnamman)
+[![GitHub followers](https://img.shields.io/github/followers/tonnamman?label=Follow&style=social)](https://github.com/tonnamman)
+[![GitHub stars](https://img.shields.io/github/stars/tonnamman?label=Stars&style=social)](https://github.com/tonnamman)
 
 ---
 
